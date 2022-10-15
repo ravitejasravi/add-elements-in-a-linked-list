@@ -2,11 +2,14 @@
 
 Problem Statement 
   
-    You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
+   You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, 
+and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
+
  ![addtwonumber1](https://user-images.githubusercontent.com/43201927/195992913-ca100d65-b914-4fd5-8ad3-a9c59c172091.jpg)
+ 
  
  
 Input: l1 = [2,4,3], l2 = [5,6,4]
